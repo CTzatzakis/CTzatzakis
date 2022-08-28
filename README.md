@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   ---
 <p align='center'>
 <a href="https://twitter.com/christzatzakis"><img height="30" src="/public/assets/icons/Twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ctzatzakis/"><img height="30" src="/public/assets/icons/LinkedIn.png?raw=true"></a>
-<a href="https://ctzatzakis.github.io/"><img height="30" style="margin: 0 0 0 5px" src="./public/assets/icons/web.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/ctzatzakis/"><img height="30" src="/public/assets/icons/LinkedIn.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://ctzatzakis.github.io/"><img height="30" src="./public/assets/icons/web.png?raw=true"></a>
 </p>
 
 
