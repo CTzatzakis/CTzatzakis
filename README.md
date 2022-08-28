@@ -44,27 +44,25 @@ Hi, I'm Chris, an Informatics & Communications Engineer, InfoSec Analyst, and Ar
 ### + Some other technologies I use
 
 <div align="center">
-<code><img height="25" src="./public/assets/icons/B.png" alt="Bootstrap"></code>
-<code><img height="25" src="./public/assets/icons/css.png" alt="CSS"></code>
-<code><img height="25" src="./public/assets/icons/docker.png" alt="Docker"></code> 
-<code><img height="25" src="./public/assets/icons/heroku.png" alt="heroku"></code> 
-<code><img height="25" src="./public/assets/icons/html.svg" alt="HTML"></code>
-<code><img height="25" src="./public/assets/icons/nodejs.png" alt="Node JS"></code>
-<code><img height="25" src="./public/assets/icons/python.svg" alt="Python"></code>
-<code><img height="25" src="./public/assets/icons/react-logo.png" alt="React"></code> 
-<code><img height="25" src="./public/assets/icons/redis.svg" alt="React"></code> 
-<code><img height="25" src="./public/assets/icons/ts.png" alt="typescript"></code> 
-
-  ---
 <code><img height="25" src="./public/assets/icons/asm.png" alt="Assembly"></code>
 <code><img height="25" src="./public/assets/icons/Bash.png" alt="Bash"></code>
+<code><img height="25" src="./public/assets/icons/B.png" alt="Bootstrap"></code>
+<code><img height="25" src="./public/assets/icons/css.png" alt="CSS"></code>
+<code><img height="25" src="./public/assets/icons/docker.png" alt="Docker"></code>
+<code><img height="25" src="./public/assets/icons/heroku.png" alt="heroku"></code>
+<code><img height="25" src="./public/assets/icons/html.svg" alt="HTML"></code>
 <code><img height="25" src="./public/assets/icons/jira.svg" alt="Jira"></code>
 <code><img height="25" src="./public/assets/icons/linux.png" alt="Jira"></code>
 <code><img height="25" src="./public/assets/icons/Matlab_Logo.png" alt="MATLAB"></code>
 <code><img height="25" src="./public/assets/icons/mssqls.png" alt="MSSQLS"></code>
+<code><img height="25" src="./public/assets/icons/nodejs.png" alt="Node JS"></code>
+<code><img height="25" src="./public/assets/icons/python.svg" alt="Python"></code>
+<code><img height="25" src="./public/assets/icons/react-logo.png" alt="React"></code>
+<code><img height="25" src="./public/assets/icons/redis.svg" alt="React"></code>
 <code><img height="25" src="./public/assets/icons/qt.png" alt="QT"></code>
 <code><img height="25" src="./public/assets/icons/R.png" alt="R"></code>
 <code><img height="25" src="./public/assets/icons/sqlite.svg" alt="SQLLite"></code>
+<code><img height="25" src="./public/assets/icons/ts.png" alt="typescript"></code>
 <code><img height="25" src="./public/assets/icons/vsc.svg" alt="Visual Code Studio"></code>
 
   ---
