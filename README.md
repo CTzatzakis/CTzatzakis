@@ -45,7 +45,7 @@ Hi, I'm Chris, an Informatics & Communications Engineer, InfoSec Analyst, and Ar
 
 <div align="center">
 <code><img height="25" src="./public/assets/icons/asm.png" alt="Assembly"></code>
-<code><img height="25" src="./public/assets/icons/Bash.png" alt="Bash"></code>
+<code><img height="25" src="./public/assets/icons/bash.png" alt="Bash"></code>
 <code><img height="25" src="./public/assets/icons/B.png" alt="Bootstrap"></code>
 <code><img height="25" src="./public/assets/icons/css.png" alt="CSS"></code>
 <code><img height="25" src="./public/assets/icons/docker.png" alt="Docker"></code>
