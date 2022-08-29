@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- [![](./public/assets/Tzatzakis_banner.gif)](https://ctzatzakis.github.io/) -->
 
 <a href="https://ctzatzakis.github.io/">
-<img style="width: 100%; border-radius: 25px 25px 0 0;" src="./public/assets/Tzatzakis_banner.gif">
+<img style="width: 100%;" src="./public/assets/Tzatzakis_banner.gif">
 </a>
 
   ---
@@ -83,6 +83,6 @@ Hi, I'm Chris, an Informatics & Communications Engineer, InfoSec Analyst, and Ar
 
 </a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CTzatzakis&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CTzatzakis&theme=dark&hide_border=true&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 </div>
