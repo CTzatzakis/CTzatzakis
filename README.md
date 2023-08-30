@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 <p>
-Hi, I'm Chris, an Informatics & Communications Engineer, InfoSec Analyst, and Art enthusiast. I am always open to discussing new projects and interesting ideas. Feel free to reach out with any questions.
+Hi, I'm Chris, an Informatics & Communications Engineer, InfoSec Analyst, and Art enthusiast. I am always open to discussing new projects and interesting ideas. Feel free to reach out.
 </p>
 
 ### Languages
